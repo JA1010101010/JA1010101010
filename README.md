@@ -4,9 +4,9 @@ Hi there! 👋 I'm Jessica. Welcome to my GitHub portfolio, a collection of proj
 
 ## About Me
 
-I am a dedicated IT professional, soon to be a graduate of the Diploma of Information Technology at **Equinim College**. This program has equipped me with a strong foundation in Communication, Problem-Solving, Cybersecurity Fundamentals, Troubleshooting and Technical Support and Networking and Infrastructure.
+I am a dedicated IT professional, in 2025 graduated of the Diploma of Information Technology at **Equinim College**. This program has equipped me with a strong foundation in Communication, Problem-Solving, Cybersecurity Fundamentals, Troubleshooting and Technical Support and Networking and Infrastructure.
 
-I am passionate about learning and expanding my expertise, and I'm excited to announce that I will be starting **Diploma in Cyber Security in 2026**.
+I am passionate about learning and expanding my expertise, and has started a **Degree in Cyber Security**.
 
 I am actively building and completing projects to gain practical experience and assist in securing a job in the tech industry. This repository serves as a central hub for easy access to my work.
 
